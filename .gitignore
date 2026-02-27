@@ -1,0 +1,41 @@
+# SolidWorks temporary files
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.SLDPRT.Backup
+*.SLDASM.Backup
+*.SLDDRW.Backup
+*.CATCache
+*.CATSwl
+*.CATReport
+*.CATProduct
+*.CATPart
+*.CGR
+*.log
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux system files
+*~
+.directory
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Build artifacts
+*.stl
+*.3mf
+*.gcode
