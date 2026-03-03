@@ -17,7 +17,7 @@ Began choosing the components for this printer. Since it will be a very barebone
 
 ### Day 13 (February 26th)
 
-Hours Worked: 15
+Hours Worked: 15 hours
 Total Hours Worked: 17 hours
 
 ---
@@ -36,7 +36,7 @@ I have also finished the Y axis. It is simply a single linear rod with a LEGO le
 
 ### Day 14 (February 27th)
 
-Hours Worked: 2.5
+Hours Worked: 2.5 hours
 Total Hours Worked: 19.5 hours
 
 ---
@@ -59,9 +59,9 @@ Here is what that section looks like and the overall look of the printer:
 ![The XZ mount](https://cdn.hackclub.com/019ca287-83b9-7563-9788-3cf95a694f93/Screenshot%202026-02-27%20233122.png)
 ![The printer](https://cdn.hackclub.com/019ca291-5588-74b0-82ce-145e8a62d24f/Screenshot%202026-02-27%20234557.png)
 
-### Day 15 (March 1st)
+### Day 16 (March 1st)
 
-Hours Worked: 1.5
+Hours Worked: 1.5 hours
 Total Hours Worked: 21 hours
 
 ---
@@ -71,3 +71,25 @@ Total Hours Worked: 21 hours
 Everything took longer than expected so the schedule above is in the trash. I finished the left side Z axis mount and I am working on the right side. For looks purposes, I want the rails on both sides to be mirrored which is causing issues with the X motion system. Currently playing around with placement until something works.
 
 ![Z Axis](https://cdn.hackclub.com/019cb185-7ebe-7b3d-8ac5-f01a3997295c/Screenshot%202026-03-02%20212706.png)
+
+### Day 18 (March 3rd)
+
+Hours Worked: 4 hours
+Total Hours Worked: 25 hours
+
+---
+
+#### XZ Axis
+
+After much consideration, I decided that mounting the X stepper after the Z rail and using a 3D printed part to connect to the worm gear. Not ideal, I was hoping to minimize the 3D printed part use here but due to time constraints and self-imposed visual requirements, I deemed this good enough.
+
+I followed this by designing a mount for the X motor which took a few tries due to the limited space. I did a quick check to ensure there are no collisions and called this part of the Z axis complete. All that is left to do is:
+
+- Connect the left and right Z axis' at the top
+- Design the extruder
+- Mount the electronics somewhere
+
+I am hoping to finish it by the end of the week!
+
+![Close up of XZ on right](https://cdn.hackclub.com/019cb5d7-6c97-7116-bb8d-29948ddb7a91/Screenshot%202026-03-03%20173444.png)
+![Isometric view](https://cdn.hackclub.com/019cb5d7-c299-7ca1-b9de-ceab2a797b97/Screenshot%202026-03-03%20173537.png)
