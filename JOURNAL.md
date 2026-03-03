@@ -58,3 +58,16 @@ I put together an overall plan I can hopefully follow to finish the preliminary 
 Here is what that section looks like and the overall look of the printer:
 ![The XZ mount](https://cdn.hackclub.com/019ca287-83b9-7563-9788-3cf95a694f93/Screenshot%202026-02-27%20233122.png)
 ![The printer](https://cdn.hackclub.com/019ca291-5588-74b0-82ce-145e8a62d24f/Screenshot%202026-02-27%20234557.png)
+
+### Day 15 (March 1st)
+
+Hours Worked: 1.5
+Total Hours Worked: 21 hours
+
+---
+
+#### Z axis
+
+Everything took longer than expected so the schedule above is in the trash. I finished the left side Z axis mount and I am working on the right side. For looks purposes, I want the rails on both sides to be mirrored which is causing issues with the X motion system. Currently playing around with placement until something works.
+
+![Z Axis](https://cdn.hackclub.com/019cb185-7ebe-7b3d-8ac5-f01a3997295c/Screenshot%202026-03-02%20212706.png)
