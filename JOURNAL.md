@@ -93,3 +93,23 @@ I am hoping to finish it by the end of the week!
 
 ![Close up of XZ on right](https://cdn.hackclub.com/019cb5d7-6c97-7116-bb8d-29948ddb7a91/Screenshot%202026-03-03%20173444.png)
 ![Isometric view](https://cdn.hackclub.com/019cb5d7-c299-7ca1-b9de-ceab2a797b97/Screenshot%202026-03-03%20173537.png)
+
+### Day 20 (March 5th)
+
+Hours Worked: 6 hours
+Total Hours Worked: 31 hours
+
+---
+
+#### Z Axis Top
+
+The Z axis has been finished. I'm a little worried that the top won't be stiff enough. I will hope that its enough and if it isn't I'll try to improve until it works. Unfortunately, it is difficult to stiffen it up more due to lack of space and the limitations of LEGO. Below is a screenshot of this assembly.
+
+![XZ Axis](https://cdn.hackclub.com/019cc151-9fd8-7a46-9451-c851d83d22e8/Screenshot%202026-03-05%20230416.png)
+
+#### Extruder
+
+The final major motion part of this project is complete: the extruder. Using a rubber band to provide tension for the idler and a stepper connected directly to the drive wheel, I can only hope this can provide a consistent enough extrusion. It still needs the adapter between the stepper and wheel; however, thats a later issue. Mounting for the extruder is on the top of the Z axis and is connected accross 4 points. This will hopefully be enough to keep it in place.
+
+![Extruder](https://cdn.hackclub.com/019cc151-bc87-756c-8422-77012bc3dae7/Screenshot%202026-03-05%20230404.png)
+![Complete printer](https://cdn.hackclub.com/019cc151-d8c5-7be5-9027-b08ea18827ca/Screenshot%202026-03-05%20225251.png)
