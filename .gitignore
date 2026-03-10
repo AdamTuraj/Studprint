@@ -39,3 +39,6 @@ $RECYCLE.BIN/
 *.stl
 *.3mf
 *.gcode
+
+# Too big
+*.blend
