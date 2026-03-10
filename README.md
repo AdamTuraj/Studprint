@@ -1,6 +1,6 @@
 ## ![STUDPRINT](Gallery/frontpage.png)
 
-**A standard I3 style bedslinger...but with a twist! The frame, motion system, and extruder are made out of 91%[^1] classic LEGO bricks.**
+**A standard bedslinger...but with a twist! The frame, motion system, and extruder are made out of 91%[^1] classic LEGO bricks.**
 
 ## About
 
