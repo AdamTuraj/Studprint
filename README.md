@@ -22,4 +22,4 @@ LEGO cost will vary depending on local availability, and the BOM cost is only a 
 
 ## License
 
-StudPrint is licensed under the CERN Open Hardware Licence. See the full license text in LICENSE.
+StudPrint is licensed under the CERN Open Hardware Licence. See the full license text in [LICENSE](LICENSE).
